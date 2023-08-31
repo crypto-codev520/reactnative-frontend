@@ -51,7 +51,7 @@ function AboutMe(): JSX.Element {
                     </View>
                     <View style={styles.itemContainer}>
                          <Image source={require('../../assets/icons/advanced-features.png')} style={{width: 25, height: 25, marginRight: 5, flex: 0}}/>
-                         <Text style={{color: 'black', fontSize: 20, flex: 1}}> Advanced Feature </Text>
+                         <Text style={{color: 'black', fontSize: 20, flex: 1}}> Advanced Features </Text>
                          <Text style={{color: 'gray', fontSize: 25, flex: 0}}> {">"} </Text>
                     </View>
                </View>

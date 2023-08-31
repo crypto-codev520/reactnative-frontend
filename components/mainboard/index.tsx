@@ -184,6 +184,7 @@ function Main(): JSX.Element {
             <Section title='BCH' amount={190.58} fee={1.97}></Section>
             <Section title='CET' amount={0.0332} fee={0.31}></Section>
             <Section title='ETH' amount={1648.74} fee={2.20}></Section>
+            <Section title='DAO' amount={96252.74} fee={3.12}></Section>
           </View>
         </View>  
       </ScrollView>
