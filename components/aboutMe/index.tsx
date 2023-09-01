@@ -101,7 +101,7 @@ function AboutMe(): JSX.Element {
                          <Text style={{color: 'gray', fontSize: 25, flex: 0}}> {">"} </Text>
                     </View>
                     <View style={styles.walletBtn}>
-                         <Text style={{color: 'rgb(60,200,60)', fontSize: 20}}> Share ViaWallet </Text>
+                         <Text style={{color: 'rgb(60,200,60)', fontSize: 20}}> Share Via Wallet </Text>
                     </View>
                </View>
           </ScrollView>
